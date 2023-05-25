@@ -3,12 +3,16 @@ Projeto da disciplina Estatística II, do curso LM Data Talents ofertado pela AD
 
 Grupo 3:
 
-[Alex](https://github.com/dovahkiinemo)
+[Alex Moulin](https://github.com/dovahkiinemo)
 
-[Carol](https://github.com/carolysg)
+[Antonio Zanutto](https://github.com/antoniozanutto)
 
-[Gabriel](https://github.com/gbmourao)
+[Carol Yumi](https://github.com/carolysg)
 
-[Haroldo](https://github.com/odlorah)
+[Gabriel Mourão](https://github.com/gbmourao)
+
+[Haroldo Viana](https://github.com/odlorah)
 
 [Rafael Ribeiro de Lima](https://github.com/Rafael-Ribeiro-de-Lima)
+
+[Thaís Falcão](https://github.com/thaisfalcao)
